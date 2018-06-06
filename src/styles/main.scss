@@ -1,0 +1,10 @@
+body {
+  background-color: red;
+  border-radius: 5px;
+}
+
+::placeholder {
+  color: gray;
+}
+
+@import 'modules/base'
